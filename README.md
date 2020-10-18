@@ -32,10 +32,10 @@
 
     ### <a name="git_intro">Git Basics</a> 
     
-    ### Version Control with Git
+    ### [Version Control with Git](https://www.udacity.com/course/version-control-with-git--ud123)
     ![Version Control with Git1](img/version_control_with_gi1.png)
     ![Version Control with Git2](img/version_control_with_gi2.png)
-    ### learngitbranching.js.org
+    ### [learngitbranching.js.org](https://learngitbranching.js.org/)
     ![learngitbranching.js.org1](img/learnbranching1.png)
     ![learngitbranching.js.org2](img/learnbranching2.png)
     
