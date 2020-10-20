@@ -6,8 +6,8 @@
 
  1. **General**
     - [x] [Git Basics](#git_intro)
-    - [ ] [Linux CLI and Networking](#)
-    - [ ] [VCS (hello gitty), GitHub and Collaboration](#)
+    - [x] [Linux CLI and Networking](#git_intro)
+    - [x] [VCS (hello gitty), GitHub and Collaboration](#)
   
  2. **Front-End Basics**
   
