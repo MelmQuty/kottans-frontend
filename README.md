@@ -6,8 +6,8 @@
 
  1. **General**
     - [x] [Git Basics](#git_intro)
-    - [x] [Linux CLI and Networking](#git_intro)
-    - [x] [VCS (hello gitty), GitHub and Collaboration](#)
+    - [x] [Linux CLI and Networking](#linux_networking)
+    - [ ] [VCS (hello gitty), GitHub and Collaboration](#)
   
  2. **Front-End Basics**
   
@@ -41,4 +41,9 @@
     
     It was my first  acquaintance with the Git so it was a bit hard for understanding but I did it. Also it's so exciting when you firstly don't understand smth but after hours of practice and efforts you overcame it. The course Version Control with Git has a lot of practice on your own computer, from basics up to some complicated things so it's better to start with this course, because learnbranching course gives you a consolidation of all you knowledge with interactive schemes or maps.
     So now I know how to create a new repository, how to create a new branch, how to switch between them, how to pull, push, merge, rebase and go on.It's awesome!
+    
+    ### <a name="linux_networking">Linux CLI and Networking</a>
+    
+    
+    
  
