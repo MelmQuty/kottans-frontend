@@ -47,6 +47,7 @@
     ![Linux_Survival](task_linux_cli/linux_gif.gif)
     
     **Linux Survival** - is definitely improved my skills in command line, I learned a lof of new commands such as ls, cs, mkdir, kill, ps, aux, df, lpr, mv, ca and go on.But for sure I need to practice more.
+    
     **HTTP/HTTPs** - there was a lot of a new information for me but it was a really interesting article. I figured out about the https and ssl sertificates, verbs and status codes and I know that it will help me in the future when I will work with frameworks or some libraries. By some time I will reread this article to remember more.
     
  
