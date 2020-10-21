@@ -7,7 +7,7 @@
  1. **General**
     - [x] [Git Basics](#git_intro)
     - [x] [Linux CLI and Networking](#linux_networking)
-    - [ ] [VCS (hello gitty), GitHub and Collaboration](#)
+    - [x] [VCS (hello gitty), GitHub and Collaboration](#git_collaboration)
   
  2. **Front-End Basics**
   
@@ -50,4 +50,9 @@
     
     **HTTP/HTTPs** - there was a lot of a new information for me but it was a really interesting article. I figured out about the https and ssl sertificates, verbs and status codes and I know that it will help me in the future when I will work with frameworks or some libraries. By some time I will reread this article to remember more.
     
+    ### <a name="git_collaboration">Git Collaboration</a>
+    
+    ![Git_collaboration](task_git_collaboration/git_collaboration1.png)
+    
+    This Udacity is a really awesome platform for learning Git.However I learned how to push,pull(fetch and merge),make pull requests earlier but there is an essential information about working in team and how to collaborate with others developers.
  
