@@ -11,7 +11,7 @@
   
  2. **Front-End Basics**
   
-    - [ ] [Intro to HTML & CSS](#)
+    - [x] [Intro to HTML & CSS](#intro_html_css)
     - [ ] [Responsive Web Design](#)
     - [ ] [HTML & CSS Practice](#)
     - [ ] [JavaScript Basics](#)
@@ -55,4 +55,16 @@
     ![Git_collaboration](task_git_collaboration/git_collaboration1.png)
     
     This Udacity is a really awesome platform for learning Git.However I learned how to push,pull(fetch and merge),make pull requests earlier but there is an essential information about working in team and how to collaborate with others developers.
- 
+    
+    ### <a name="#intro_html_css">Intro to HTML & CSS</a>
+    ![Udacity_html_css](task_html_css_intro/udacity_html_css.png)
+    
+    This for an easy-breeze course for me so I didn't learn something new, just refreshed my knowledge.I liked their videos in a forest the most. :evergreen_tree:
+    
+    ![Codecademy_html](task_html_css_intro/codecademy_html.png)
+    
+    The same as Udacity-html course, it didn't take me too much time to end it up.:mortar_board:
+    
+    ![Codecademy_css](task_html_css_intro/codecademy_css.png)
+    
+    This task gave me a lot of new skills in Grid, I had never used it before so it was a nice chance.However, I will use Flex more in my practice, because of its flexibility.
