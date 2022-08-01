@@ -32,6 +32,8 @@
 
     ### <a name="git_intro">Git Basics</a> 
     
+    <details><summary>Progress</summary>
+ 
     ### [Version Control with Git](https://www.udacity.com/course/version-control-with-git--ud123)
     ![Version Control with Git0](Git_Basics/version_control_with_gi1.png)
     ![Version Control with Git1](Git_Basics/version_control_with_gi2.png)
@@ -41,22 +43,37 @@
     
     It was my first  acquaintance with the Git so it was a bit hard for understanding but I did it. Also it's so exciting when you firstly don't understand smth but after hours of practice and efforts you overcame it. The course Version Control with Git has a lot of practice on your own computer, from basics up to some complicated things so it's better to start with this course, because learnbranching course gives you a consolidation of all you knowledge with interactive schemes or maps.
     So now I know how to create a new repository, how to create a new branch, how to switch between them, how to pull, push, merge, rebase and go on.It's awesome!
-    
+ 
+    </details>
+ 
     ### <a name="linux_networking">Linux CLI and Networking</a>
+    
+    <details><summary>Progress</summary>
     
     ![Linux_Survival](task_linux_cli/linux_gif.gif)
     
     **Linux Survival** - is definitely improved my skills in command line, I learned a lof of new commands such as ls, cs, mkdir, kill, ps, aux, df, lpr, mv, ca and go on.But for sure I need to practice more.
     
     **HTTP/HTTPs** - there was a lot of a new information for me but it was a really interesting article. I figured out about the https and ssl sertificates, verbs and status codes and I know that it will help me in the future when I will work with frameworks or some libraries. By some time I will reread this article to remember more.
+ 
+    </details>
     
     ### <a name="git_collaboration">Git Collaboration</a>
+    
+    <details><summary>Progress</summary>
     
     ![Git_collaboration](task_git_collaboration/git_collaboration1.png)
     
     This Udacity is a really awesome platform for learning Git.However I learned how to push,pull(fetch and merge),make pull requests earlier but there is an essential information about working in team and how to collaborate with others developers.
+ 
+    </details>
+    
+    ## Front-End Basics
     
     ### <a name="#intro_html_css">Intro to HTML & CSS</a>
+    
+    <details><summary>Progress</summary
+ 
     ![Udacity_html_css](task_html_css_intro/udacity_html_css.png)
     
     This for an easy-breeze course for me so I didn't learn something new, just refreshed my knowledge.I liked their videos in a forest the most. :evergreen_tree:
@@ -68,3 +85,5 @@
     ![Codecademy_css](task_html_css_intro/codecademy_css.png)
     
     This task gave me a lot of new skills in Grid, I had never used it before so it was a nice chance.However, I will use Flex more in my practice, because of its flexibility.
+ 
+    </details>
