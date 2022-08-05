@@ -12,9 +12,9 @@
  2. **Front-End Basics**
   
     - [x] [Intro to HTML & CSS](#intro_html_css)
-    - [ ] [Responsive Web Design](#responsive_web_design)
+    - [x] [Responsive Web Design](#responsive_web_design)
     - [ ] [HTML & CSS Practice](#)
-    - [ ] [JavaScript Basics](#)
+    - [x] [JavaScript Basics](#js_basics)
     - [ ] [Document Object Model - practice](#)
   
  3. **Advanced Topics**
@@ -96,4 +96,33 @@
     ![Grid_Garden](task_responsive_web_design/image_2022-08-05_16-24-28.png)
     
     I have had some knowledge about Flex and Grid before playing these funny games but it also was a useful information.
+    </details>
+    
+    ### <a name="#js_basics">JavaScript Basics</a>
+    <details><summary>Progress</summary>
+    
+    There are a lot of easy exercices.
+    
+    ![basic_javaScript](task_js_basics/image_basic_javaScript.png)
+    
+    Information about some new features in ES6.
+    
+    ![ES6_Challenges](task_js_basics/image_ES6_Challenges.png)
+    
+    It also wasn't very hard.
+    
+    ![Basic_Data_Structures](task_js_basics/image_Basic_Data_Structures.png)
+    
+    It was a pretty hard.
+    
+    ![Basic_Algorithm_Scripting](task_js_basics/image_Basic_Algorithm_Scripting.png)
+    
+    Also some information about OOP programming.
+    
+    ![Functional_Programming](task_js_basics/image_Functional_Programming.png)
+    
+    A really hard challenges, takes a lot of my time.
+    
+    ![Algorithm_Scripting_Challenges](task_js_basics/image_Algorithm_Scripting_Challenges.png)
+    
     </details>
