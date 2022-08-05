@@ -12,7 +12,7 @@
  2. **Front-End Basics**
   
     - [x] [Intro to HTML & CSS](#intro_html_css)
-    - [ ] [Responsive Web Design](#)
+    - [ ] [Responsive Web Design](#responsive_web_design)
     - [ ] [HTML & CSS Practice](#)
     - [ ] [JavaScript Basics](#)
     - [ ] [Document Object Model - practice](#)
@@ -84,6 +84,16 @@
     
     ![Codecademy_css](task_html_css_intro/codecademy_css.png)
     
-    This task gave me a lot of new skills in Grid, I had never used it before so it was a nice chance.However, I will use Flex more in my practice, because of its flexibility.
+    This task gave me a lot of new skills in Grid, I have never used it before so it was a nice chance. However, I will use Flex more in my practice, because of its flexibility.
  
+    </details>
+    
+    ### <a name="#responsive_web_design">Responsive Web Design</a>
+    <details><summary>Progress</summary>
+    
+    ![Flexbox_Froggy](task_responsive_web_design/image_2022-07-26_22-28-47.png)
+    
+    ![Grid_Garden](task_responsive_web_design/image_2022-08-05_16-24-28.png)
+    
+    I have had some knowledge about Flex and Grid before playing these funny games but it also was a useful information.
     </details>
